@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24eeaf72-b2cc-48ec-a1d6-d68e11565610" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PQueueDS.java" afterDir="false" />
+    <list default="true" id="24eeaf72-b2cc-48ec-a1d6-d68e11565610" name="Changes" comment="Added PQUEUE DS">
+      <change afterPath="$PROJECT_DIR$/src/LinkedListDS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677429843773</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added PQUEUE DS">
+      <created>1678208168049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678208168049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,5 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added PQUEUE DS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added PQUEUE DS" />
   </component>
 </project>
