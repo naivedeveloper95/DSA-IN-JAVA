@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24eeaf72-b2cc-48ec-a1d6-d68e11565610" name="Changes" comment="Added Dynamic array DS">
+    <list default="true" id="24eeaf72-b2cc-48ec-a1d6-d68e11565610" name="Changes" comment="Completed Dynamic array DS">
+      <change afterPath="$PROJECT_DIR$/src/LinkedListVArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListDS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListDS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678300178792</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed Dynamic array DS">
+      <created>1678555809407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678555809407</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +111,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added PQUEUE DS" />
     <MESSAGE value="Added Dynamic array DS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Dynamic array DS" />
+    <MESSAGE value="Completed Dynamic array DS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Dynamic array DS" />
   </component>
 </project>
