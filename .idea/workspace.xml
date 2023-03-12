@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24eeaf72-b2cc-48ec-a1d6-d68e11565610" name="Changes" comment="LinkedList Vs ArrayList comparison">
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
+    <list default="true" id="24eeaf72-b2cc-48ec-a1d6-d68e11565610" name="Changes" comment="Added linear search">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678557186648</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added linear search">
+      <created>1678640196119</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678640196119</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +127,7 @@
     <MESSAGE value="Added Dynamic array DS" />
     <MESSAGE value="Completed Dynamic array DS" />
     <MESSAGE value="LinkedList Vs ArrayList comparison" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedList Vs ArrayList comparison" />
+    <MESSAGE value="Added linear search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added linear search" />
   </component>
 </project>
