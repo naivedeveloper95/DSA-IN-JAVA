@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24eeaf72-b2cc-48ec-a1d6-d68e11565610" name="Changes" comment="Added Bubble Sort">
-      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+    <list default="true" id="24eeaf72-b2cc-48ec-a1d6-d68e11565610" name="Changes" comment="Added Selection Sort">
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678711277417</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added Selection Sort">
+      <created>1678728057589</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678728057589</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +179,7 @@
     <MESSAGE value="Added correction in Dynamic Array" />
     <MESSAGE value="Added Interpolation Search" />
     <MESSAGE value="Added Bubble Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Bubble Sort" />
+    <MESSAGE value="Added Selection Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Selection Sort" />
   </component>
 </project>
