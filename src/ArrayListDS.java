@@ -11,16 +11,14 @@ public class ArrayListDS {
         dynamicArray.add("E");
         dynamicArray.add("F");
 
-//        dynamicArray.insert(0, "X");
-//        System.out.println(dynamicArray);
-//        dynamicArray.delete("A");
+        dynamicArray.insert(0, "X");
 
         dynamicArray.delete("A");
         dynamicArray.delete("C");
         dynamicArray.delete("E");
 
 //        System.out.println(dynamicArray.size);
-//        System.out.println(dynamicArray.search("C"));
+        System.out.println(dynamicArray.search("C"));
 
         System.out.println(dynamicArray);
         System.out.println(dynamicArray.size);

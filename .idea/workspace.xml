@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24eeaf72-b2cc-48ec-a1d6-d68e11565610" name="Changes" comment="Added linear search">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+    <list default="true" id="24eeaf72-b2cc-48ec-a1d6-d68e11565610" name="Changes" comment="Added binary search">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListDS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListDS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +51,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "java.suggest.annotation.dependency": "false",
     "last_opened_file_path": "D:/Dev/JAVA_DSA"
   }
 }]]></component>
@@ -107,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678640196119</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added binary search">
+      <created>1678643712555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678643712555</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +141,7 @@
     <MESSAGE value="Completed Dynamic array DS" />
     <MESSAGE value="LinkedList Vs ArrayList comparison" />
     <MESSAGE value="Added linear search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added linear search" />
+    <MESSAGE value="Added binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added binary search" />
   </component>
 </project>
