@@ -4,7 +4,9 @@ public class InterpolationSearch {
 
         int[] array = {1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024};
 
-        int index = interpolationSearch(array, 256);
+        int value = 256;
+
+        int index = interpolationSearch(array, value);
 
         if (index != -1) {
             System.out.println("Element found at index " + index);
